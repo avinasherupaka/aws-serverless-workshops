@@ -28,6 +28,8 @@ Asia Pacific (Mumbai) | [![Launch Module 4 in ap-south-1](http://docs.aws.amazon
 <details>
 <summary><strong>CloudFormation Launch Instructions (expand for details)</strong></summary><p>
 
+1. https://s3.amazonaws.com/wildrydes-us-east-1/WebApplication/4_RESTfulAPIs/backend-api.yaml
+
 1. Click the **Launch Stack** link above for the region of your choice.
 
 1. Click **Next** on the Select Template page.
