@@ -27,6 +27,8 @@ Asia Pacific (Seoul) | [![Launch Modules 1, 2, 3, and 4 in ap-northeast-2](http:
 Asia Pacific (Sydney) | [![Launch Modules 1, 2, 3, and 4 in ap-southeast-2](http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/images/cloudformation-launch-stack-button.png)](https://console.aws.amazon.com/cloudformation/home?region=ap-southeast-2#/stacks/new?stackName=wildrydes-webapp&templateURL=https://s3.amazonaws.com/wildrydes-ap-southeast-2/WebApplication/5_OAuth/prerequisites.yaml)
 Asia Pacific (Mumbai) | [![Launch Modules 1, 2, 3, and 4 in ap-south-1](http://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/images/cloudformation-launch-stack-button.png)](https://console.aws.amazon.com/cloudformation/home?region=ap-south-1#/stacks/new?stackName=wildrydes-webapp&templateURL=https://s3.amazonaws.com/wildrydes-ap-south-1/WebApplication/5_OAuth/prerequisites.yaml)
 
+1. https://s3.amazonaws.com/wildrydes-us-east-1/WebApplication/5_OAuth/prerequisites.yaml
+
 The stack creation process will ask you for a **Website Bucket Name**, specify a unique name for your bucket such as **wildrydes-webapp-&lt;username&gt;**.
 
 #### Populate the rides database
